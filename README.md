@@ -17,4 +17,5 @@ Usability 9.12
 Derived URL for the dataset 
 https://github.com/kaurmukhveer/DataAnalysis-/releases/download/v1.0/complaints.csv
 
-
+Derived url link for car price dataset
+https://github.com/kaurmukhveer/DataAnalysis-/blob/4690c699c9633af39f7d0f56c4ff808cf117bc80/car%20details%20v4.csv
